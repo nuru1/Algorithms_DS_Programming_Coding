@@ -19,7 +19,7 @@ public class interiew {
 		}else {
 			System.out.println("Not a palindrome");
 		}*/
-		System.out.println(20+30+"Hello");
+		System.out.println("Hello"+20+30);
 		
 	}
 
