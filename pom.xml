@@ -3,4 +3,11 @@
   <groupId>learn.code</groupId>
   <artifactId>Code</artifactId>
   <version>0.0.1-SNAPSHOT</version>
+  <dependencies>
+  	<dependency>
+  		<groupId>org.json</groupId>
+  		<artifactId>json</artifactId>
+  		<version>20141113</version>
+  	</dependency>
+  </dependencies>
 </project>
