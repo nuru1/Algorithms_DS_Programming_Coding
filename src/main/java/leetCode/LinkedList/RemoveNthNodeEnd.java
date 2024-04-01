@@ -1,3 +1,5 @@
+package leetCode.LinkedList;
+
 public class RemoveNthNodeEnd {
     public ListNode removeNthFromEnd(ListNode head, int n) {
         ListNode tail = head;
