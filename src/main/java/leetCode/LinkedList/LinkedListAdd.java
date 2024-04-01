@@ -1,13 +1,6 @@
 package leetCode.LinkedList;
 
 // https://leetcode.com/problems/add-two-numbers/?envType=study-plan-v2&envId=top-interview-150
-class ListNode {
-         int val;
-         ListNode next;
-         ListNode() {}
-         ListNode(int val) { this.val = val; }
-         ListNode(int val, ListNode next) { this.val = val; this.next = next; }
-     }
 public class LinkedListAdd {
 
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
